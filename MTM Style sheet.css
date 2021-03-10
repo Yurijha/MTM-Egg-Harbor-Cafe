@@ -126,7 +126,7 @@ div img {
 
 body {
     background-color: whitesmoke;
-    outline: 200px;
+    outline-width: 200px;
     outline-style: dashed;
     outline-color: #842c16;
 }
